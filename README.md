@@ -145,7 +145,7 @@ $
 ここでは、`undefined`と`object`について確認します。  
 `undefined`は文字のごとく、未定義を表します。
 
-`c`は明示的に初期化してないので、`undedfined`で定義されていますね。  
+`let c`は明示的に初期化してないので、`undedfined`で定義されていますね。  
 Goでいうところの、ゼロ値みたいなイメージに近いのかな?
 
 次に、`object`について、[ここ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)から、
